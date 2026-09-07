@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "pd:HaveITol1958",
+    "type": "movie",
+    "name": "Have I Told You Lately That I Love You?",
+    "poster": "https://archive.org/services/img/HaveITol1958",
+    "releaseInfo": "1958",
+    "description": "Imaginative film showing how automatic gadgets in homes and workplaces alienate people from one another.",
+    "background": "https://archive.org/services/img/HaveITol1958",
+    "links": [
+      {
+        "name": "archive.org",
+        "category": "source",
+        "url": "https://archive.org/details/HaveITol1958"
+      }
+    ]
+  }
+}

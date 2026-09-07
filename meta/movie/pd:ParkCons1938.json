@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "pd:ParkCons1938",
+    "type": "movie",
+    "name": "Park Conscious",
+    "poster": "https://archive.org/services/img/ParkCons1938",
+    "releaseInfo": "1938",
+    "description": "Elegy to recreation and relaxation in state and national parks.",
+    "background": "https://archive.org/services/img/ParkCons1938",
+    "links": [
+      {
+        "name": "archive.org",
+        "category": "source",
+        "url": "https://archive.org/details/ParkCons1938"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/JoanAvoi1947/JoanAvoi1947_edit.mp4",
+      "name": "archive.org",
+      "description": "Joan Avoids a Cold \u00b7 public domain \u00b7 MP4",
+      "behaviorHints": {
+        "filename": "JoanAvoi1947_edit.mp4"
+      }
+    }
+  ]
+}

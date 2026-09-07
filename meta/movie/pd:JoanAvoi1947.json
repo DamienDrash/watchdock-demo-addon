@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "pd:JoanAvoi1947",
+    "type": "movie",
+    "name": "Joan Avoids a Cold",
+    "poster": "https://archive.org/services/img/JoanAvoi1947",
+    "releaseInfo": "1947",
+    "description": "How young children must behave to avoid transmitting germs to one another.",
+    "background": "https://archive.org/services/img/JoanAvoi1947",
+    "links": [
+      {
+        "name": "archive.org",
+        "category": "source",
+        "url": "https://archive.org/details/JoanAvoi1947"
+      }
+    ]
+  }
+}

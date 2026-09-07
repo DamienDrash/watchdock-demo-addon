@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "pd:Automoti1940",
+    "type": "movie",
+    "name": "Automotive Service",
+    "poster": "https://archive.org/services/img/Automoti1940",
+    "releaseInfo": "1940",
+    "description": "Opportunities for employment servicing America's vast motor fleet.",
+    "background": "https://archive.org/services/img/Automoti1940",
+    "links": [
+      {
+        "name": "archive.org",
+        "category": "source",
+        "url": "https://archive.org/details/Automoti1940"
+      }
+    ]
+  }
+}

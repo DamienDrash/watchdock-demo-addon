@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/FromtheG1954/FromtheG1954_edit.mp4",
+      "name": "archive.org",
+      "description": "From the Ground Up \u00b7 public domain \u00b7 MP4",
+      "behaviorHints": {
+        "filename": "FromtheG1954_edit.mp4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/Doctorin1946/Doctorin1946_edit.mp4",
+      "name": "archive.org",
+      "description": "Doctor in Industry (Part I) \u00b7 public domain \u00b7 MP4",
+      "behaviorHints": {
+        "filename": "Doctorin1946_edit.mp4"
+      }
+    }
+  ]
+}

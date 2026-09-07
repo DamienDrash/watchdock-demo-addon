@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "pd:CaseofSp1940",
+    "type": "movie",
+    "name": "Case of Spring Fever, A",
+    "poster": "https://archive.org/services/img/CaseofSp1940",
+    "releaseInfo": "1940",
+    "description": "Gilbert Willoughby is punished for voicing Luddite ideas (complaining about pesky springs) by \"Coily,\" an obnoxious, animated spring who subjects him to the hassles of a springless world.",
+    "background": "https://archive.org/services/img/CaseofSp1940",
+    "links": [
+      {
+        "name": "archive.org",
+        "category": "source",
+        "url": "https://archive.org/details/CaseofSp1940"
+      }
+    ]
+  }
+}

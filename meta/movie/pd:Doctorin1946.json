@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "pd:Doctorin1946",
+    "type": "movie",
+    "name": "Doctor in Industry (Part I)",
+    "poster": "https://archive.org/services/img/Doctorin1946",
+    "releaseInfo": "1946",
+    "description": "Epic history of industrial medicine in the first half of the 20th century, showing how manufacturers and the medical profession came to terms with one another and culminating in GM's rehabilitation program for returned World War II veterans. Directed by Haford Kerbawy.",
+    "background": "https://archive.org/services/img/Doctorin1946",
+    "links": [
+      {
+        "name": "archive.org",
+        "category": "source",
+        "url": "https://archive.org/details/Doctorin1946"
+      }
+    ]
+  }
+}

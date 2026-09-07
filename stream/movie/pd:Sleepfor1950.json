@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/Sleepfor1950/Sleepfor1950_edit.mp4",
+      "name": "archive.org",
+      "description": "Sleep for Health \u00b7 public domain \u00b7 MP4",
+      "behaviorHints": {
+        "filename": "Sleepfor1950_edit.mp4"
+      }
+    }
+  ]
+}

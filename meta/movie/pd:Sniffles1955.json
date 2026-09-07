@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "pd:Sniffles1955",
+    "type": "movie",
+    "name": "Sniffles and Sneezes",
+    "poster": "https://archive.org/services/img/Sniffles1955",
+    "releaseInfo": "1955",
+    "description": "Children as carriers and victims of infections.",
+    "background": "https://archive.org/services/img/Sniffles1955",
+    "links": [
+      {
+        "name": "archive.org",
+        "category": "source",
+        "url": "https://archive.org/details/Sniffles1955"
+      }
+    ]
+  }
+}

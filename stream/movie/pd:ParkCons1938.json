@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/ParkCons1938/ParkCons1938.mp4",
+      "name": "archive.org",
+      "description": "Park Conscious \u00b7 public domain \u00b7 MP4",
+      "behaviorHints": {
+        "filename": "ParkCons1938.mp4"
+      }
+    }
+  ]
+}

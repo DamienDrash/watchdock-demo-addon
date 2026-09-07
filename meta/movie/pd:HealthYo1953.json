@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "pd:HealthYo1953",
+    "type": "movie",
+    "name": "Health: Your Posture",
+    "poster": "https://archive.org/services/img/HealthYo1953",
+    "releaseInfo": "1953",
+    "description": "Young girl's mirror image teaches her fundamentals of good posture.",
+    "background": "https://archive.org/services/img/HealthYo1953",
+    "links": [
+      {
+        "name": "archive.org",
+        "category": "source",
+        "url": "https://archive.org/details/HealthYo1953"
+      }
+    ]
+  }
+}
