@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "Automotive Service",
     "poster": "https://archive.org/services/img/Automoti1940",
+    "posterShape": "landscape",
     "releaseInfo": "1940",
     "description": "Opportunities for employment servicing America's vast motor fleet.",
     "background": "https://archive.org/services/img/Automoti1940",

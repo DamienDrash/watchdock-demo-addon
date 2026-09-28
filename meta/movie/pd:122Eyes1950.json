@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "122 Eyes",
     "poster": "https://archive.org/services/img/122Eyes1950",
+    "posterShape": "landscape",
     "releaseInfo": "ca. ",
     "description": "Hard times in 1950s St. Louis and the social services that aimed to alleviate them.",
     "background": "https://archive.org/services/img/122Eyes1950",

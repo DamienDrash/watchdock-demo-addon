@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "Sniffles and Sneezes",
     "poster": "https://archive.org/services/img/Sniffles1955",
+    "posterShape": "landscape",
     "releaseInfo": "1955",
     "description": "Children as carriers and victims of infections.",
     "background": "https://archive.org/services/img/Sniffles1955",

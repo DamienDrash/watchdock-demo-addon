@@ -1,11 +1,11 @@
 {
   "streams": [
     {
-      "url": "https://archive.org/download/Usingthe1947/Usingthe1947_edit.mp4",
+      "url": "https://archive.org/download/Usingthe1947/Usingthe1947.mp4",
       "name": "archive.org",
       "description": "Using the Bank \u00b7 public domain \u00b7 MP4",
       "behaviorHints": {
-        "filename": "Usingthe1947_edit.mp4"
+        "filename": "Usingthe1947.mp4"
       }
     }
   ]

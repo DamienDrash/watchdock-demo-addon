@@ -1,11 +1,11 @@
 {
   "streams": [
     {
-      "url": "https://archive.org/download/Automoti1940/Automoti1940_edit.mp4",
+      "url": "https://archive.org/download/Automoti1940/Automoti1940.mp4",
       "name": "archive.org",
       "description": "Automotive Service \u00b7 public domain \u00b7 MP4",
       "behaviorHints": {
-        "filename": "Automoti1940_edit.mp4"
+        "filename": "Automoti1940.mp4"
       }
     }
   ]

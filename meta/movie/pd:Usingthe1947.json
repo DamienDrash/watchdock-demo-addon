@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "Using the Bank",
     "poster": "https://archive.org/services/img/Usingthe1947",
+    "posterShape": "landscape",
     "releaseInfo": "1947",
     "description": "Banking services and procedures in the pre-computer era.",
     "background": "https://archive.org/services/img/Usingthe1947",

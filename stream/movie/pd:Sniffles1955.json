@@ -1,11 +1,11 @@
 {
   "streams": [
     {
-      "url": "https://archive.org/download/Sniffles1955/Sniffles1955_edit.mp4",
+      "url": "https://archive.org/download/Sniffles1955/Sniffles1955.mp4",
       "name": "archive.org",
       "description": "Sniffles and Sneezes \u00b7 public domain \u00b7 MP4",
       "behaviorHints": {
-        "filename": "Sniffles1955_edit.mp4"
+        "filename": "Sniffles1955.mp4"
       }
     }
   ]

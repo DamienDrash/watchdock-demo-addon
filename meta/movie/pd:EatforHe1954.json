@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "Eat for Health",
     "poster": "https://archive.org/services/img/EatforHe1954",
+    "posterShape": "landscape",
     "releaseInfo": "1954",
     "description": "Ralph learns the five food groups, helping him to eat a balanced diet, and has more fun because of his better health.",
     "background": "https://archive.org/services/img/EatforHe1954",

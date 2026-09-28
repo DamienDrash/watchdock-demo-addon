@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "Joan Avoids a Cold",
     "poster": "https://archive.org/services/img/JoanAvoi1947",
+    "posterShape": "landscape",
     "releaseInfo": "1947",
     "description": "How young children must behave to avoid transmitting germs to one another.",
     "background": "https://archive.org/services/img/JoanAvoi1947",

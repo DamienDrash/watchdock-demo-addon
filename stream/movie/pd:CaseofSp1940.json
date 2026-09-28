@@ -1,11 +1,11 @@
 {
   "streams": [
     {
-      "url": "https://archive.org/download/CaseofSp1940/CaseofSp1940_edit.mp4",
+      "url": "https://archive.org/download/CaseofSp1940/CaseofSp1940.mp4",
       "name": "archive.org",
       "description": "Case of Spring Fever, A \u00b7 public domain \u00b7 MP4",
       "behaviorHints": {
-        "filename": "CaseofSp1940_edit.mp4"
+        "filename": "CaseofSp1940.mp4"
       }
     }
   ]

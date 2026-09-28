@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "From the Ground Up",
     "poster": "https://archive.org/services/img/FromtheG1954",
+    "posterShape": "landscape",
     "releaseInfo": "ca. ",
     "description": "Promotional film for \"Nutrilite,\" a 1950s-vintage food supplement.",
     "background": "https://archive.org/services/img/FromtheG1954",

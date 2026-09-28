@@ -5,6 +5,7 @@
       "type": "movie",
       "name": "About Bananas",
       "poster": "https://archive.org/services/img/AboutBan1935",
+      "posterShape": "landscape",
       "releaseInfo": "1935",
       "description": "Complete presentation of the banana industry from the clearing of the jungle and the planting to the shipment of the fruit to the American markets."
     },
@@ -13,6 +14,7 @@
       "type": "movie",
       "name": "Doctor in Industry (Part I)",
       "poster": "https://archive.org/services/img/Doctorin1946",
+      "posterShape": "landscape",
       "releaseInfo": "1946",
       "description": "Epic history of industrial medicine in the first half of the 20th century, showing how manufacturers and the medical profession came to terms with one another and culminating in GM's rehabilitation program for returned World War II veterans. Directed by Haford Kerbawy."
     },
@@ -21,6 +23,7 @@
       "type": "movie",
       "name": "Health: Your Posture",
       "poster": "https://archive.org/services/img/HealthYo1953",
+      "posterShape": "landscape",
       "releaseInfo": "1953",
       "description": "Young girl's mirror image teaches her fundamentals of good posture."
     },
@@ -29,6 +32,7 @@
       "type": "movie",
       "name": "From the Ground Up",
       "poster": "https://archive.org/services/img/FromtheG1954",
+      "posterShape": "landscape",
       "releaseInfo": "ca. ",
       "description": "Promotional film for \"Nutrilite,\" a 1950s-vintage food supplement."
     },
@@ -37,6 +41,7 @@
       "type": "movie",
       "name": "Sleep for Health",
       "poster": "https://archive.org/services/img/Sleepfor1950",
+      "posterShape": "landscape",
       "releaseInfo": "1950",
       "description": "Told from the viewpoint of a child, this film emphasizes that children should train themselves in good sleeping habits. In typical \"Goofus and Gallant\" style, it shows the advantages a well-rested kid has over his poor-sleeping classmate. Dreams are presented as a normal part of sleeping, and there is a funny dream sequence."
     },
@@ -45,6 +50,7 @@
       "type": "movie",
       "name": "Joan Avoids a Cold",
       "poster": "https://archive.org/services/img/JoanAvoi1947",
+      "posterShape": "landscape",
       "releaseInfo": "1947",
       "description": "How young children must behave to avoid transmitting germs to one another."
     },
@@ -53,6 +59,7 @@
       "type": "movie",
       "name": "Eat for Health",
       "poster": "https://archive.org/services/img/EatforHe1954",
+      "posterShape": "landscape",
       "releaseInfo": "1954",
       "description": "Ralph learns the five food groups, helping him to eat a balanced diet, and has more fun because of his better health."
     },
@@ -61,6 +68,7 @@
       "type": "movie",
       "name": "Automotive Service",
       "poster": "https://archive.org/services/img/Automoti1940",
+      "posterShape": "landscape",
       "releaseInfo": "1940",
       "description": "Opportunities for employment servicing America's vast motor fleet."
     },
@@ -69,6 +77,7 @@
       "type": "movie",
       "name": "Park Conscious",
       "poster": "https://archive.org/services/img/ParkCons1938",
+      "posterShape": "landscape",
       "releaseInfo": "1938",
       "description": "Elegy to recreation and relaxation in state and national parks."
     },
@@ -77,6 +86,7 @@
       "type": "movie",
       "name": "122 Eyes",
       "poster": "https://archive.org/services/img/122Eyes1950",
+      "posterShape": "landscape",
       "releaseInfo": "ca. ",
       "description": "Hard times in 1950s St. Louis and the social services that aimed to alleviate them."
     },
@@ -85,6 +95,7 @@
       "type": "movie",
       "name": "Using the Bank",
       "poster": "https://archive.org/services/img/Usingthe1947",
+      "posterShape": "landscape",
       "releaseInfo": "1947",
       "description": "Banking services and procedures in the pre-computer era."
     },
@@ -93,6 +104,7 @@
       "type": "movie",
       "name": "Have I Told You Lately That I Love You?",
       "poster": "https://archive.org/services/img/HaveITol1958",
+      "posterShape": "landscape",
       "releaseInfo": "1958",
       "description": "Imaginative film showing how automatic gadgets in homes and workplaces alienate people from one another."
     },
@@ -101,6 +113,7 @@
       "type": "movie",
       "name": "Case of Spring Fever, A",
       "poster": "https://archive.org/services/img/CaseofSp1940",
+      "posterShape": "landscape",
       "releaseInfo": "1940",
       "description": "Gilbert Willoughby is punished for voicing Luddite ideas (complaining about pesky springs) by \"Coily,\" an obnoxious, animated spring who subjects him to the hassles of a springless world."
     },
@@ -109,6 +122,7 @@
       "type": "movie",
       "name": "Sniffles and Sneezes",
       "poster": "https://archive.org/services/img/Sniffles1955",
+      "posterShape": "landscape",
       "releaseInfo": "1955",
       "description": "Children as carriers and victims of infections."
     }

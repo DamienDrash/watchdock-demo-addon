@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "Sleep for Health",
     "poster": "https://archive.org/services/img/Sleepfor1950",
+    "posterShape": "landscape",
     "releaseInfo": "1950",
     "description": "Told from the viewpoint of a child, this film emphasizes that children should train themselves in good sleeping habits. In typical \"Goofus and Gallant\" style, it shows the advantages a well-rested kid has over his poor-sleeping classmate. Dreams are presented as a normal part of sleeping, and there is a funny dream sequence.",
     "background": "https://archive.org/services/img/Sleepfor1950",

@@ -1,11 +1,11 @@
 {
   "streams": [
     {
-      "url": "https://archive.org/download/EatforHe1954/EatforHe1954_edit.mp4",
+      "url": "https://archive.org/download/EatforHe1954/EatforHe1954.mp4",
       "name": "archive.org",
       "description": "Eat for Health \u00b7 public domain \u00b7 MP4",
       "behaviorHints": {
-        "filename": "EatforHe1954_edit.mp4"
+        "filename": "EatforHe1954.mp4"
       }
     }
   ]

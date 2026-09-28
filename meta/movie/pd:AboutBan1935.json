@@ -4,6 +4,7 @@
     "type": "movie",
     "name": "About Bananas",
     "poster": "https://archive.org/services/img/AboutBan1935",
+    "posterShape": "landscape",
     "releaseInfo": "1935",
     "description": "Complete presentation of the banana industry from the clearing of the jungle and the planting to the shipment of the fruit to the American markets.",
     "background": "https://archive.org/services/img/AboutBan1935",
