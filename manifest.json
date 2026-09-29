@@ -2,7 +2,7 @@
   "id": "ski.frigew.watchdock.demo",
   "version": "1.0.0",
   "name": "Public Domain Films (Demo)",
-  "description": "A handful of public-domain films from the Prelinger Archives on archive.org, served as a Stremio add-on so App Review can see Watchdock play something. Every film here is free to watch and to share.",
+  "description": "A handful of public-domain films from the Prelinger Archives on archive.org. Every film here is free to watch and to share.",
   "logo": "https://damiendrash.github.io/watchdock-demo-addon/logo.png",
   "resources": [
     "catalog",
